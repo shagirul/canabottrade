@@ -1,2 +1,8 @@
+# Ignore virtual environment
 .venv/
-resource
+
+# Ignore resource folder
+resource/
+
+# Alternatively, if you want to ignore a specific file within resource
+resource/minuteBitcoinData.csv
