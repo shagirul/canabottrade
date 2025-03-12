@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+TA-Lib
+yfinance
+ta-lib
